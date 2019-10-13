@@ -1,0 +1,350 @@
+body {
+    margin: 0;
+    
+}
+
+.bg {
+  width: 1260px;
+  height: 940px;
+  background-color: #edf2c5;
+  position: relative;
+  margin: 0 auto;
+}
+
+header {
+    display: flex;
+    flex-direction: row;
+}
+
+  .Vegetables {
+    width: 271px;
+    height: 62px;
+    font-family: Arial;
+    font-size: 44px;
+    font-weight: 900;
+    font-style: normal;
+    font-stretch: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #778a50;
+    margin-left: 160px;
+    margin-top: 36px;
+  }
+
+  .enter {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 5px;
+  }
+
+  .btn_facebook {
+    width: 25px;
+    height: 25px;
+    object-fit: contain;
+    margin-left: 469px;
+    margin-top: 60px;
+  }
+  
+  .btn_instagram {
+    width: 25px;
+    height: 25px;
+    object-fit: contain;
+    margin-left: 10px;
+    margin-top: 60px;
+  }
+
+  .line_login {
+    width: 1px;
+    height: 25px;
+    background-color: #778a50;
+    margin-left: 10px;
+    margin-top: 60px;
+  }
+
+  .LOGIN-box {
+    width: 57px;
+    height: 25px;
+    border: solid 1px #778a50;
+    margin-left: 10px;
+    margin-top: 59px;
+    border-radius: 3px;
+  }
+
+  .LOGIN {
+    width: 46px;
+    height: 15px;
+    font-family: Arial;
+    font-size: 14px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #778a50;
+    margin: 5px 6px 4px 6px;
+  }
+
+  .JOIN-box {
+    width: 47px;
+    height: 25px;
+    border: solid 1px #778a50;
+    margin-left: 10px;
+    margin-top: 59px;
+    border-radius: 3px;
+  }
+
+  .JOIN {
+    width: 35px;
+    height: 15px;
+    font-family: Arial;
+    font-size: 14px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #778a50;
+    margin: 5px 6px 4px 6px;
+  }
+
+  .nav_box {
+    width: 940px;
+    height: 44px;
+    border-radius: 3px;
+    background-color: #778a50;
+    margin-left: 160px;
+    display: flex;
+    line-height: 15px;
+  }
+
+  .Home {
+    width: 51px;
+    height: 23px;
+    font-family: Arial;
+    font-size: 16px;
+    font-weight: 900;
+    font-style: normal;
+    font-stretch: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #edf2c5;
+    display: inline-block;
+    margin-left: -15px;
+  }
+
+  .About-Us {
+    width: 80px;
+    height: 23px;
+    font-family: Arial;
+    font-size: 16px;
+    font-weight: 900;
+    font-style: normal;
+    font-stretch: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #edf2c5;
+    display: inline-block;
+    margin-left: 40px;
+  }
+
+  .Vegetables-t {
+    width: 98px;
+    height: 23px;
+    font-family: Arial;
+    font-size: 16px;
+    font-weight: 900;
+    font-style: normal;
+    font-stretch: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #edf2c5;
+    display: inline-block;
+    margin-left: 40px;
+  }
+  
+  .Online {
+    width: 56px;
+    height: 23px;
+    font-family: Arial;
+    font-size: 16px;
+    font-weight: 900;
+    font-style: normal;
+    font-stretch: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #edf2c5;
+    display: inline-block;
+    margin-left: 40px;
+  }
+
+  .Contact {
+    width: 69px;
+    height: 23px;
+    font-family: Arial;
+    font-size: 16px;
+    font-weight: 900;
+    font-style: normal;
+    font-stretch: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #edf2c5;
+    display: inline-block;
+    margin-left: 40px;
+  }
+
+  .img_main_pumpkin {
+    width: 940px;
+    height: 448px;
+    object-fit: contain;
+    margin-left: 160px;
+    margin-top:20px;
+  }
+
+  .vegcon {
+    display: flex; 
+  }
+
+  .body_box_vegetables {
+    width: 444px;
+    height: 45px;
+    border-radius: 3px;
+    background-color: #778a50;
+    margin-left: 160px;
+    margin-top: 30px;
+    line-height: 45px;
+  }
+  
+  .Vegetables-1 {
+    width: 98px;
+    height: 23px;
+    font-family: Arial;
+    font-size: 16px;
+    font-weight: 900;
+    font-style: normal;
+    font-stretch: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #edf2c5;
+    padding-left: 30px;
+  }
+  
+  .img3 {
+    display: flex;
+    margin-top: 15px;
+    margin-bottom: 35px;
+  }
+
+  .img_vegetables_pepper {
+    width: 140px;
+    height: 140px;
+    object-fit: contain;
+    margin-left: 160px;
+  }
+  
+  .img_vegetables_carrot {
+    width: 140px;
+    height: 140px;
+    object-fit: contain;
+    margin-left: 12px;
+  }
+
+  .img_vegetables_corn {
+    width: 140px;
+    height: 140px;
+    object-fit: contain;
+    margin-left: 12px;
+  }
+
+  .body_box_contact {
+    width: 444px;
+    height: 45px;
+    border-radius: 3px;
+    background-color: #778a50;
+    margin-left: 52px;
+    margin-top: 30px;
+    line-height: 45px;
+  }
+
+  .Contact-p {
+    width: 69px;
+    height: 23px;
+    font-family: Arial;
+    font-size: 16px;
+    font-weight: 900;
+    font-style: normal;
+    font-stretch: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #edf2c5;
+    padding-left: 30px;
+  }
+
+  .body_box_contact_text {
+    width: 444px;
+    height: 140px;
+    background-color: #f7fbda;
+    margin-left: 52px;
+    margin-top: 15px;
+    margin-bottom: 35px;
+  }
+
+  .p1 {
+    width: 414px;
+    height: 44px;
+    font-family: Arial;
+    font-size: 12px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.25;
+    letter-spacing: normal;
+    text-align: left;
+    color: #7d7d7d;
+    padding-left: 15px;
+    padding-top: 15px;
+  }
+    
+  .line_contact_text {
+    width: 414px;
+    height: 1px;
+    background-color: #7d7d7d;
+    margin-left: 15px;
+    margin-top: 15px;
+  }
+
+  .email {
+    width: 197px;
+    height: 35px;
+    font-family: Arial;
+    font-size: 12px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.75;
+    letter-spacing: normal;
+    text-align: left;
+    color: #7d7d7d;
+    margin-top: 15px;
+    margin-left: 15px;
+    margin-bottom: 15px;
+  }
+
+  .box_footer {
+    width: 1260px;
+    height: 60px;
+    background-color: #778a50;
+  }
+
+  .copyrights {
+    width: 301px;
+    height: 14px;
+    font-family: Arial;
+    font-size: 12px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #edf2c5;
+    padding: 23px 479px 23px 480px;
+  }
